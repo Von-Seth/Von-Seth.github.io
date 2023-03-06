@@ -2,7 +2,7 @@
 layout: post
 title:  "Resume"
 date:   2023-03-04 14:57:08 -0600
-categories: jekyll update
+categories: resume update
 ---
 
 # Robert Loader
