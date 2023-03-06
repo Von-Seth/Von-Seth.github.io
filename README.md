@@ -1,7 +1,6 @@
 # READ(*L*)ME *This,* <sub><sup>*How does one host a resume using GitHub-Pages?*</sub></sup> 🤨
-
-
-## Contents Table 📂
+---
+# Contents Table 📂
 - [Prerequisites](#prerequisites)
 - [Steps](#steps)
   1. [Software Instalation](#1-software-instalation)
@@ -14,11 +13,11 @@
 - [Credits](#credits)
 - [FAQ](#faq)
 
-
-## Prerequisites ❗
+---
+# Prerequisites ❗
 - Prior to starting this tutorial __you should__ already have a resume that is in Markdown format. If you don't have one I recommend checking out the *Markdown Tutorial* in the [More Resources](#more-resources). 
 
-
+---
 # Steps 👣
 
 ## 1. Software Instalation
@@ -58,18 +57,21 @@
   2. Write a Summary of what you've completed so far, in text box labled *Summary (required)*
   3. Click the blue button labled *Commit to __main__*
 
-
-## More Resources 📚
+---
+# More Resources 📚
 * [Markdown Tutorial](https://www.markdowntutorial.com/)
   * [Basic Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Usefull)
   * [Advanced GitHub Flavored Markdown Cheatsheet](https://github.github.com/gfm/) (Extra)
 * [Modern Technical Writing, *By Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/ref=kinw_myk_ro_title)
 
+---
+# Credits 📜
+* [Modern Technical Writing, *By Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/ref=kinw_myk_ro_title)
+* [Jekyll Docs](https://jekyllrb.com/docs/)
+* [GitHub's Jekyll Docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
-## Credits 📜
-
-
-## FAQ ❓
+---
+# FAQ ❓
 - __Q:__ Why is Markdown better than a word processor?
   - __A:__ Most static site generators use Markdown files as inputs, because of this it makes it easy to update a static sites content without needed to rewrite any HTML or CSS, saving you much time.
 - __Q:__ Why is my resume not showing up?
