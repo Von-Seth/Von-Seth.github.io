@@ -15,7 +15,7 @@
 
 
 ## Prerequisites ❗
-- Prior to starting this tutorial __you should__ already have a resume that is in Markdown format. If you don't have one I recommend checking out the *Markdown Tutorial* in the [More Resources](#more-resources). 
+- Prior to starting this tutorial __you should__ already have a resume that is in Markdown format. If you don't have one I recommend checking out the *Markdown Tutorial* in the [More Resources](#more-resources-). 
 
 ---
 # Steps 👣
@@ -59,7 +59,8 @@
 
 ---
 # More Resources 📚
-* [Markdown Tutorial](https://www.markdowntutorial.com/)
+* Markdown
+  * [Markdown Tutorial](https://www.markdowntutorial.com/) (Start Here)
   * [Basic Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (Usefull)
   * [Advanced GitHub Flavored Markdown Cheatsheet](https://github.github.com/gfm/) (Extra)
 * [Modern Technical Writing, *By Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/ref=kinw_myk_ro_title)
