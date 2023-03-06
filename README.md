@@ -1,20 +1,20 @@
 # READ(*L*)ME *This,* <sub><sup>*How does one host a resume using GitHub-Pages?*</sub></sup> 🤨
----
-# Contents Table 📂
-- [Prerequisites](#prerequisites)
-- [Steps](#steps)
+
+## Contents Table 📂
+- [Prerequisites](#prerequisites-❗)
+- [Steps](#steps-👣)
   1. [Software Instalation](#1-software-instalation)
   2. [Setting up GitHub-Pages](#2-setting-up-github-pages)
   3. [Setting-Up Local Repository](#3-setting-up-local-repository)
   4. [Create Default Files With Git Bash](#4-create-default-files-with-git-bash)
   5. [Test Site](#5-test-site)
   6. [Push To Main](#6-push-to-main)
-- [More Resources](#more-resources)
-- [Credits](#credits)
-- [FAQ](#faq)
+- [More Resources](#more-resources-📚)
+- [Credits](#contents-table-📂)
+- [FAQ](#faq-❓)
 
----
-# Prerequisites ❗
+
+## Prerequisites ❗
 - Prior to starting this tutorial __you should__ already have a resume that is in Markdown format. If you don't have one I recommend checking out the *Markdown Tutorial* in the [More Resources](#more-resources). 
 
 ---
