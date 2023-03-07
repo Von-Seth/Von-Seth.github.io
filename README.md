@@ -31,7 +31,8 @@
   1. Navigate to your repositories (github.com/__*yourUsername*__?tab=repositories)
   2. Click on the green button that say's __New__
   
-  ![Image](/readmeAssets/GitHubNewRepo.png)
+![Image](/readmeAssets/GitHubNewRepo.png)
+
   3. Type *__yourUsername__.github.io* into the text box labled *Repository name*
   4. Check-off the box labled *Add a README file*
   5. Click the green button labled *Create repository* 
@@ -64,6 +65,7 @@
   3. Click the blue button labled *Commit to __main__*
   
   ![Image](/readmeAssets/GitHubDesktopCommit.png)
+
 
 ---
 # More Resources 📚
