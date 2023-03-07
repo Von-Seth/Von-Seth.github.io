@@ -21,11 +21,15 @@
 # Steps 👣
 
 ## 1. Software Instalation
-  1.  
+ 1. Download [GitHub Desktop](https://desktop.github.com/)
+ 2. GitBash
+    1. ?
+ 3. Download [Visual Studio Code](https://code.visualstudio.com/)
+ 
 
 ## 2. Setting-Up GitHub-Pages
   1. Navigate to your repositories (github.com/__*yourUsername*__?tab=repositories)
-  2. Click on the green button that say's __New__
+  2. Click on the green button that say's __New__ ![Image](/readmeAssets/GitHubNewRepo.png)
   3. Type *__yourUsername__.github.io* into the text box labled *Repository name*
   4. Check-off the box labled *Add a README file*
   5. Click the green button labled *Create repository* 
@@ -55,7 +59,7 @@
 ## 6. Push To Main
   1. Open GitHub Desktop
   2. Write a Summary of what you've completed so far, in text box labled *Summary (required)*
-  3. Click the blue button labled *Commit to __main__*
+  3. Click the blue button labled *Commit to __main__* ![Image](/readmeAssets/GitHubDesktopCommit.png)
 
 ---
 # More Resources 📚
