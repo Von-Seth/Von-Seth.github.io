@@ -3,6 +3,7 @@ layout: post
 title:  "Resume"
 date:   2023-03-04 14:57:08 -0600
 categories: resume update
+remote_theme: pages-themes/slate@v0.2.0
 ---
 
 # Robert Loader
