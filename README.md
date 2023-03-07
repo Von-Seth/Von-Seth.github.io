@@ -36,12 +36,12 @@
 
   3. Type *__yourUsername__.github.io* into the text box labled *Repository name*
   4. Check-off the box labled *Add a README file*
-  5. Click the green button labled *Create repository* 
+  5. Click the green button labled __Create repository__ 
 
 ## 3. Setting-Up Local Repository
   1. Navigate to your newly created repository (github.com/__*yourUsername*__/__*yourUsername*__.github.io)
   2. Click on the greed button that says __Code__
-  3. Click *Open with GitHub Desk* -- (__Note:__ a popup may arise, if so, just click *Open GitHubDesktop.exe*) 
+  3. Click __Open with GitHub Desk__ -- (__Note:__ a popup may arise, if so, just click *Open GitHubDesktop.exe*) 
   4. Click the blue button labled __*Clone*__ once the GitHub Desktop application opens up -- (__Note:__ keep track of the *Local path* you are cloning to. This will be required in an upcomming step)
 
 ## 4. Create Default Files With Git Bash
@@ -63,7 +63,7 @@
 ## 6. Push To Main
   1. Open GitHub Desktop
   2. Write a Summary of what you've completed so far, in text box labled *Summary (required)*
-  3. Click the blue button labled *Commit to __main__*
+  3. Click the blue button labled __Commit to main__
   
   ![Image](/readmeAssets/GitHubDesktopCommit.png)
 
