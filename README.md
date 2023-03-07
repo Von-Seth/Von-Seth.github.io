@@ -1,5 +1,7 @@
 # READ(*L*)ME *This,* <sub><sup>*How does one host a resume using GitHub-Pages?*</sub></sup> 🤨
 
+![GIF](/readmeAssets/resume.gif)
+
 ## Contents Table 📂
 - [Prerequisites](#prerequisites-)
 - [Steps](#steps-)
@@ -23,7 +25,6 @@
 ## 1. Software Instalation
  1. Download [GitHub Desktop](https://desktop.github.com/)
  2. GitBash
-    1. ?
  3. Download [Visual Studio Code](https://code.visualstudio.com/)
  
 
