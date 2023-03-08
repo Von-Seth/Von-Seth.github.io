@@ -84,6 +84,7 @@
 * [Jekyll Docs](https://jekyllrb.com/docs/)
 * [GitHub's Jekyll Docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 * [Jekyll Slate Theme](https://github.com/pages-themes/slate)
+* [Adobe Convert to GIF](https://express.adobe.com/tools/convert-to-gif)
 
 ---
 # FAQ ❓
