@@ -83,6 +83,7 @@
 * [Modern Technical Writing, *By Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/ref=kinw_myk_ro_title)
 * [Jekyll Docs](https://jekyllrb.com/docs/)
 * [GitHub's Jekyll Docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+* [Jekyll Slate Theme](https://github.com/pages-themes/slate)
 
 ---
 # FAQ ❓
