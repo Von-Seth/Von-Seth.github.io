@@ -20,8 +20,8 @@
 
 title: Von Seth
 email: Robert.C.Loader@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  It ain't much here other that unfininished ideas and school projects.
+#description: >- # this means to ignore newlines until "baseurl:"
+#  It ain't much here other that unfininished ideas and school projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -32,7 +32,7 @@ remote_theme: pages-themes/slate@v0.2.0
 #theme: minima
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
