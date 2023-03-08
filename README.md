@@ -1,6 +1,6 @@
 # READ(*L*)ME *This,* <sub><sup>*How does one host a resume using GitHub-Pages?*</sub></sup> 🤨
 
-![GIF](/readmeAssets/resume.gif)
+![GIF](/readmeAssets/resumeV2.gif)
 
 ## Contents Table 📂
 - [Prerequisites](#prerequisites-)
