@@ -3,9 +3,11 @@ title:  "Resume"
 ---
 
 # Robert Loader
-Winnipeg, MB XXX XXX
+Winnipeg, MB ### ###
+
 Robert.C.Loader@gmail.com
-+1 (XXX) XXX-XXXX
+
++1 (###) ###-####
 
 ## Summary
 I am currently a U of M student in Computer Science, with prior experience as a Computer Shop Technician. I enjoy being physically active when possible, I strive for improvement in my work, and love solving new and unique problems. My work schedule is very open and flexible.
