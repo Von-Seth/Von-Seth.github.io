@@ -1,24 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-#layout: page
 title:  "Resume"
 ---
 
 # Robert Loader
 Winnipeg, MB XXX XXX
-
 Robert.C.Loader@gmail.com
-
 +1 (XXX) XXX-XXXX
 
 ## Summary
----
 I am currently a U of M student in Computer Science, with prior experience as a Computer Shop Technician. I enjoy being physically active when possible, I strive for improvement in my work, and love solving new and unique problems. My work schedule is very open and flexible.
 
 ## Work Experience
----
 **Computer Shop Technician**
 _Computer Blues? Inc.
 January 2017 - May 2018_
@@ -38,7 +30,6 @@ _December 2013 - December 2019_
 * Cared for animals daily needs
 
 ## Education
----
 **Bachelor of Computer Science**
 _University of Manitoba
 September 2017 - Present_
@@ -55,7 +46,6 @@ Graduated February 2017_
 
 
 ## Extracurricular
----
 **Google Tech Challenge Champion Team**
 _University of Manitoba
 September 2019_
@@ -76,13 +66,11 @@ July 2015_
 
 
 ## Certifications and Licences
----
 **Valid Driver’s Licence**
 _Class 5F_
 
 
 ## Skills
----
 * Communication Skills
 * Leadership Skills
 * Teamwork Skills
