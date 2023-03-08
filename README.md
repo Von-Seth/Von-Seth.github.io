@@ -29,6 +29,7 @@
  
 
 ## 2. Setting-Up GitHub-Pages
+<sup>*Note:* using a Distributed Version Control System (Like GitHub) is a great way to *share* and *host* your files. You can learn more on page 28 of [Modern Technical Writing, *By Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/ref=kinw_myk_ro_title).
   1. Navigate to your repositories (github.com/__*yourUsername*__?tab=repositories)
   2. Click on the green button that say's __New__
   
@@ -51,6 +52,7 @@
 
 
 ## 5. Test Site
+<sup>*Note:* Setting up a Static Site Generator (What we completed in the prior step) is one of the best things you can do to save time for future you! With a properly configured Static Site Generator you'll be able to pass it brand new Markdown files and have it automatically generate a delightful site. If your intrested in knowing more I reccomend reading pages 31 to 33 of [Modern Technical Writing, *By Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/ref=kinw_myk_ro_title)
   1. Open the *Git Bash* terminal
   2. Navigate to the *Local path* where your repository was cloned. This is an example of how to navigate files in a terminal with the cd command, ```cd 'C:\Users\yourAccount\Documents\GitHub\yourUsername.github.io'```
   3. Type the command ```bundle exec jekyll serve```
