@@ -47,7 +47,10 @@
 ## 3. Setting-Up Local Repository
   1. Navigate to your newly created repository (github.com/__*yourUsername*__/__*yourUsername*__.github.io).
   2. Click on the green button that says __Code__.
-  3. Click __Open with GitHub Desk__ -- (__Note:__ a popup may arise, if so, just click *Open GitHubDesktop.exe*) .
+  3. Click __Open with GitHub Desk__ -- (__Note:__ a popup may arise, if so, just click *Open GitHubDesktop.exe*).
+
+  ![Image](/readmeAssets/openWithGitHubDesktop.png)
+
   4. Click the blue button labelled __*Clone*__ once the GitHub Desktop application opens up -- (__Note:__ keep track of the *Local path* you are cloning to. This will be required in an upcoming step).
 
 ## 4. Create Default Files With Git Bash
@@ -108,6 +111,9 @@
   1. Navigate to your repository (github.com/*yourUsername*/*yourUsername*.github.io).
   2. Click the __Actions__ tab.
   3. Wait until there is a green check mark next to the latest __pages build and deployment__.
+
+  ![Image](/readmeAssets/builtPage.png)
+
   4. Click the __<>Code__ tab.
   5. Click the __github-pages__ button, located on the right side of the page under Environments.
   6. Click __View deployment__ on the right hand side of the page.
