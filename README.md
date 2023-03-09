@@ -5,7 +5,7 @@
 ## Contents Table 📂
 - [Prerequisites](#prerequisites-)
 - [Steps](#steps-)
-  1. [Software Instalation](#1-software-instalation)
+  1. [Software Installation](#1-software-installation)
   2. [Setting up GitHub-Pages](#2-setting-up-github-pages)
   3. [Setting-Up Local Repository](#3-setting-up-local-repository)
   4. [Create Default Files With Git Bash](#4-create-default-files-with-git-bash)
@@ -26,7 +26,7 @@
 ---
 # Steps 👣
 
-## 1. Software Instalation
+## 1. Software Installation
  1. Download [GitHub Desktop](https://desktop.github.com/)
  2. Download [Ruby](https://www.ruby-lang.org/en/)
  3. Download [Visual Studio Code](https://code.visualstudio.com/)
@@ -36,19 +36,19 @@
 <sup>*Note:* using a Distributed Version Control System (Like GitHub) is a great way to *share* and *host* your files. You can learn more on page 28 of [Modern Technical Writing, *By Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/ref=kinw_myk_ro_title).
 
   1. Navigate to your repositories (github.com/__*yourUsername*__?tab=repositories).
-  2. Click on the green button that say's __New__.
+  2. Click on the green button that says __New__.
   
 ![Image](/readmeAssets/GitHubNewRepo.png)
 
-  3. Type *yourUsername.github.io* into the text box labled *Repository name*.
-  4. Check-off the box labled *Add a README file*.
-  5. Click the green button labled __Create repository__ .
+  3. Type *yourUsername.github.io* into the text box lablled *Repository name*.
+  4. Check-off the box lablled *Add a README file*.
+  5. Click the green button lablled __Create repository__.
 
 ## 3. Setting-Up Local Repository
   1. Navigate to your newly created repository (github.com/__*yourUsername*__/__*yourUsername*__.github.io).
-  2. Click on the greed button that says __Code__.
+  2. Click on the green button that says __Code__.
   3. Click __Open with GitHub Desk__ -- (__Note:__ a popup may arise, if so, just click *Open GitHubDesktop.exe*) .
-  4. Click the blue button labled __*Clone*__ once the GitHub Desktop application opens up -- (__Note:__ keep track of the *Local path* you are cloning to. This will be required in an upcomming step).
+  4. Click the blue button lablled __*Clone*__ once the GitHub Desktop application opens up -- (__Note:__ keep track of the *Local path* you are cloning to. This will be required in an upcoming step).
 
 ## 4. Create Default Files With Git Bash
   1. Open the *Git Bash* terminal.
@@ -57,7 +57,7 @@
 
 
 ## 5. Test Site
-<sup>*Note:* Setting up a Static Site Generator (What we completed in the prior step) is one of the best things you can do to save time for future you! With a properly configured Static Site Generator you'll be able to pass it brand new Markdown files and have it automatically generate a delightful site. If your intrested in knowing more I reccomend reading pages 31 to 33 of [Modern Technical Writing, *By Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/ref=kinw_myk_ro_title).
+<sup>*Note:* Setting up a Static Site Generator (What we completed in the prior step) is one of the best things you can do to save time for future you! With a properly configured Static Site Generator you'll be able to pass it brand new Markdown files and have it automatically generate a delightful site. If you're interested in knowing more I recommend reading pages 31 to 33 of [Modern Technical Writing, *By Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/ref=kinw_myk_ro_title).
 
   1. Open the *Git Bash* terminal.
   2. Navigate to the *Local path* where your repository was cloned. This is an example of how to navigate files in a terminal with the cd command, ```cd 'C:\Users\yourAccount\Documents\GitHub\yourUsername.github.io'```.
@@ -98,8 +98,8 @@
 
 ## 9. Push To Main
   1. Open GitHub Desktop.
-  2. Write a Summary of what you've completed so far, in text box labled *Summary (required)*.
-  3. Click the blue button labled __Commit to main__.
+  2. Write a Summary of what you've completed so far, in text box lablled *Summary (required)*.
+  3. Click the blue button lablled __Commit to main__.
   
   ![Image](/readmeAssets/GitHubDesktopCommit.png)
 
@@ -111,7 +111,7 @@
   4. Click the __<>Code__ tab.
   5. Click the __github-pages__ button, located on the right side of the page under Environments.
   6. Click __View deployment__ on the right hand side of the page.
-  7. Congradulations! You now have your personal resume hosted on GitHub Pages! If you wish to go further and make more amazing projects I reccomend you check out some of the resources and credits below, Cheers!🎉
+  7. Congradulations! You now have your personal resume hosted on GitHub Pages! If you wish to go further and make more amazing projects I recommend you check out some of the resources and credits below, Cheers!🎉
 
 ---
 # More Resources 📚
