@@ -40,15 +40,15 @@
   
 ![Image](/readmeAssets/GitHubNewRepo.png)
 
-  3. Type *yourUsername.github.io* into the text box lablled *Repository name*.
-  4. Check-off the box lablled *Add a README file*.
-  5. Click the green button lablled __Create repository__.
+  3. Type *yourUsername.github.io* into the text box labelled *Repository name*.
+  4. Check-off the box labelled *Add a README file*.
+  5. Click the green button labelled __Create repository__.
 
 ## 3. Setting-Up Local Repository
   1. Navigate to your newly created repository (github.com/__*yourUsername*__/__*yourUsername*__.github.io).
   2. Click on the green button that says __Code__.
   3. Click __Open with GitHub Desk__ -- (__Note:__ a popup may arise, if so, just click *Open GitHubDesktop.exe*) .
-  4. Click the blue button lablled __*Clone*__ once the GitHub Desktop application opens up -- (__Note:__ keep track of the *Local path* you are cloning to. This will be required in an upcoming step).
+  4. Click the blue button labelled __*Clone*__ once the GitHub Desktop application opens up -- (__Note:__ keep track of the *Local path* you are cloning to. This will be required in an upcoming step).
 
 ## 4. Create Default Files With Git Bash
   1. Open the *Git Bash* terminal.
@@ -98,14 +98,14 @@
 
 ## 9. Push To Main
   1. Open GitHub Desktop.
-  2. Write a Summary of what you've completed so far, in text box lablled *Summary (required)*.
-  3. Click the blue button lablled __Commit to main__.
+  2. Write a Summary of what you've completed so far, in text box labelled *Summary (required)*.
+  3. Click the blue button labelled __Commit to main__.
   
   ![Image](/readmeAssets/GitHubDesktopCommit.png)
 
 
 ## 10. Let's See The Result!
-  1. Navigate to your repositorie (github.com/*yourUsername*/*yourUsername*.github.io).
+  1. Navigate to your repository (github.com/*yourUsername*/*yourUsername*.github.io).
   2. Click the __Actions__ tab.
   3. Wait until there is a green check mark next to the latest __pages build and deployment__.
   4. Click the __<>Code__ tab.
