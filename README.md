@@ -78,7 +78,7 @@
 
 ## 7. Modify _config.yml
   1. Open _config.yml.
-  2. Comment out everyline. (Note: To comment out a line place  ```#``` at the start).
+  2. Comment-out every line. (Note: To comment-out a line place  ```#``` at the start).
   3. Add the following  
      - ```remote_theme: pages-themes/slate@v0.2.0```
      - ```plugins: ```  
@@ -87,7 +87,7 @@
 
 ## 8. Modify Gemfile
   1. Open Gemfile.
-  2. Comment out the following:
+  2. Comment-out the following:
      - ```gem "jekyll", "~> 4.3.2"```
      - ```gem "minima", "~> 2.5"```
      - ```gem "jekyll-feed", "~> 0.12"```
